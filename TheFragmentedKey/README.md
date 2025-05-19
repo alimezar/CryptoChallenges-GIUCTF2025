@@ -42,7 +42,6 @@ The note says:
    - If you find readable text starting with `GIUCTF{...}`, you've succeeded.
 
 ---
----
 
 ## 📂 Files Included
 
