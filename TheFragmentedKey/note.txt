@@ -1,0 +1,1 @@
+“The message was encrypted with a repeating Vigenère key derived from three of the five fragments, in order. For each chosen fragment, add the ASCII values of its characters, convert the sum to base-36, then concatenate the three base-36 strings to build the final Vigenère key.”
