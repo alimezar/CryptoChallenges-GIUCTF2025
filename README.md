@@ -30,6 +30,9 @@ challenges/
 ├── military-grade-enc/   ← External link to Dockerized web crypto challenge
 ├── sum-of-secrets/       ← RSA with twist & layered decryption
 
+```
+---
+
 Each folder contains:
 - `README.md` — challenge story and solving instructions
 - `challenge.md` — metadata for CTFd-style platforms
