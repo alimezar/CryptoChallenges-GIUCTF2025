@@ -14,10 +14,10 @@ This repository contains all the original cryptography challenges that appeared 
 
 | Challenge Name        | Difficulty | Points | Description                                               |
 |------------------------|------------|--------|-----------------------------------------------------------|
-| [Number Shift](challenges/number-shift)          | Easy       | 75     | Caesar-style cipher with a repeating numeric twist         |
-| [The Fragmented Key](challenges/fragmented-key)  | Medium     | 150    | Vigenère decryption with base36 fragment-based key logic   |
+| [Number Shift](challenges/Number-Shift)          | Easy       | 75     | Caesar-style cipher with a repeating numeric twist         |
+| [The Fragmented Key](challenges/The-Fragmented-Key)  | Medium     | 150    | Vigenère decryption with base36 fragment-based key logic   |
 | [Military-Grade-Enc](https://github.com/alimezar/military-grade-enc) | Hard       | 200    | Web crypto disaster with DES, padding leaks, and backups   |
-| [Sum of Secrets](challenges/sum-of-secrets)      | Very Hard  | 500    | RSA with leaked p + q — recover the key and decrypt the flag |
+| [Sum of Secrets](challenges/Sum-Of-Secrets)      | Very Hard  | 500    | RSA with leaked p + q — recover the key and decrypt the flag |
 
 ---
 
